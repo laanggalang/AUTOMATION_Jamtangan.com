@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "9D75A460EF4E9E05CF22B541D5379AA3",
+  "keywordFileContentHash": "6D0EE3F4EF9AEC25CEBEA7E719F0BA8C",
   "keywordClasses": [
     {
       "name": "CheckOutJamTangan",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
